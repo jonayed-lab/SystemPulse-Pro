@@ -1,0 +1,4 @@
+# SystemPulse Pro - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+psutil>=5.9.0
