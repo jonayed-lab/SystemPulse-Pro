@@ -362,7 +362,7 @@ Click the "Fork" button at the top of this page.
 ### Step 2: Clone Your Fork
 
 ```bash
-git clone https://github.com/jonayed-lab/SystemPulse-Pro.git
+git clone https://github.com/YOUR-USERNAME/SystemPulse-Pro.git
 ```
 
 ### Step 3: Create a Branch
